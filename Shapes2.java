@@ -50,3 +50,7 @@ public class Shapes2{
     System.out.println("Area of the Square = "+s.calculateArea());
     }
 }
+//EXPECTED OUTPUT
+// Sample Output (Reference)
+// Area of Circle: 78.5
+// Area of Square: 16.0
