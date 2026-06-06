@@ -45,3 +45,7 @@ public class Shapes3 {
         System.out.printf("Area of Square: %.1f%n", s2.calculateArea());
     }
 }
+
+//OUTPUT
+// Area of Circle: 78.5
+// Area of Square: 16.0
